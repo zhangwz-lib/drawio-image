@@ -350,12 +350,6 @@
         <mxCell id="zZtS3_ilHBVQIf3lF5zK-110" value="DirectBuffer" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="zZtS3_ilHBVQIf3lF5zK-104">
           <mxGeometry x="29.51454185778426" y="240.62731372417042" width="104.43607118908288" height="29.16694711808127" as="geometry" />
         </mxCell>
-        <mxCell id="zZtS3_ilHBVQIf3lF5zK-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="zZtS3_ilHBVQIf3lF5zK-104">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="156.65410678362383" y="291.66947118081265" as="sourcePoint" />
-            <mxPoint x="156.65410678362383" y="277.085997621772" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="zZtS3_ilHBVQIf3lF5zK-112" value="MappedByteBuffer" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="zZtS3_ilHBVQIf3lF5zK-104">
           <mxGeometry x="29.512138728323666" y="278.2078032801598" width="104.43607118908288" height="29.16694711808127" as="geometry" />
         </mxCell>
