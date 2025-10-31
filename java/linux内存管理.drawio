@@ -401,8 +401,11 @@
         <mxCell id="zZtS3_ilHBVQIf3lF5zK-128" value="IO占用的内存" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1050" y="1351" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="zZtS3_ilHBVQIf3lF5zK-129" value="JavaHeap" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zZtS3_ilHBVQIf3lF5zK-129" value="JavaHeap&lt;div&gt;-Xmx, -Xms&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-20" y="1140" width="150" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="zZtS3_ilHBVQIf3lF5zK-130" value="字符串常量池" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-5" y="1510" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
