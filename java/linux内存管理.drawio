@@ -461,7 +461,7 @@
         <mxCell id="k4z31NSJgL4ALZ6JsjjZ-52" value="Text" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="k4z31NSJgL4ALZ6JsjjZ-35">
           <mxGeometry x="235.40226152197218" y="-13.429999999999836" width="97.94694533762059" height="50.00000000000005" as="geometry" />
         </mxCell>
-        <mxCell id="k4z31NSJgL4ALZ6JsjjZ-53" value="Data" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="k4z31NSJgL4ALZ6JsjjZ-35">
+        <mxCell id="k4z31NSJgL4ALZ6JsjjZ-53" value="Data Bss区域" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="k4z31NSJgL4ALZ6JsjjZ-35">
           <mxGeometry x="333.34920685959275" y="-13.429999999999836" width="97.94694533762059" height="50.00000000000005" as="geometry" />
         </mxCell>
         <mxCell id="k4z31NSJgL4ALZ6JsjjZ-54" value="stack" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="k4z31NSJgL4ALZ6JsjjZ-35">
@@ -476,7 +476,7 @@
         <mxCell id="k4z31NSJgL4ALZ6JsjjZ-57" value="内存映射区域" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="k4z31NSJgL4ALZ6JsjjZ-35">
           <mxGeometry x="689.6312205251877" y="-13.429999999999836" width="133.45271302250808" height="50.00000000000005" as="geometry" />
         </mxCell>
-        <mxCell id="k4z31NSJgL4ALZ6JsjjZ-58" value="" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="k4z31NSJgL4ALZ6JsjjZ-35">
+        <mxCell id="k4z31NSJgL4ALZ6JsjjZ-58" value="未使用区域" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="k4z31NSJgL4ALZ6JsjjZ-35">
           <mxGeometry x="823.08" y="-13.43" width="196.92" height="50" as="geometry" />
         </mxCell>
         <mxCell id="k4z31NSJgL4ALZ6JsjjZ-59" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.67;dx=20;notch=0;container=0;" vertex="1" parent="k4z31NSJgL4ALZ6JsjjZ-35">
