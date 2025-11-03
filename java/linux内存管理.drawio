@@ -1,9 +1,18 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="28.2.8">
   <diagram name="第 1 页" id="RbE0zZEDlsMbj9A2anAU">
-    <mxGraphModel dx="1018" dy="1762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1257" dy="1762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="k4z31NSJgL4ALZ6JsjjZ-68" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1120" width="1310" height="590" as="geometry" />
+        </mxCell>
+        <mxCell id="k4z31NSJgL4ALZ6JsjjZ-66" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="1160" width="1070" height="530" as="geometry" />
+        </mxCell>
+        <mxCell id="k4z31NSJgL4ALZ6JsjjZ-64" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="1180" width="200" height="500" as="geometry" />
+        </mxCell>
         <mxCell id="9y9Copx7se7E2T3DfJLC-24" value="内核" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="610" y="895" width="240" height="60" as="geometry" />
         </mxCell>
@@ -490,6 +499,15 @@
         </mxCell>
         <mxCell id="k4z31NSJgL4ALZ6JsjjZ-62" value="JNI malloc/free" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="728.5" y="1710" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k4z31NSJgL4ALZ6JsjjZ-65" value="jmap区域" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1190" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k4z31NSJgL4ALZ6JsjjZ-67" value="nmt 区域&lt;br&gt;-XX:NativeMemoryTracking=detail | summary" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="625" y="1180" width="285" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k4z31NSJgL4ALZ6JsjjZ-69" value="pmap/strace&lt;div&gt;gdb --batch --pid x -ex &quot;dump memory gdb_64M.dump 0x7f4fb0389000 0x7f4fb4000000&quot;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="438.5" y="1120" width="633" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
