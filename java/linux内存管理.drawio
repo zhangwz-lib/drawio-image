@@ -419,19 +419,19 @@
         <mxCell id="k4z31NSJgL4ALZ6JsjjZ-35" value="" style="group;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="160" y="1800" width="1280.72" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="k4z31NSJgL4ALZ6JsjjZ-36" value="" style="group;sketch=1;curveFitting=1;jiggle=2;" vertex="1" connectable="0" parent="k4z31NSJgL4ALZ6JsjjZ-35">
+        <mxCell id="k4z31NSJgL4ALZ6JsjjZ-36" value="" style="group;sketch=1;curveFitting=1;jiggle=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" connectable="0" parent="k4z31NSJgL4ALZ6JsjjZ-35">
           <mxGeometry x="70" y="160" width="1155.4" height="90" as="geometry" />
         </mxCell>
         <mxCell id="k4z31NSJgL4ALZ6JsjjZ-37" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="k4z31NSJgL4ALZ6JsjjZ-36">
           <mxGeometry width="1155.3999999999999" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="k4z31NSJgL4ALZ6JsjjZ-38" value="内核内存" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="k4z31NSJgL4ALZ6JsjjZ-36">
+        <mxCell id="k4z31NSJgL4ALZ6JsjjZ-38" value="内核内存" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="k4z31NSJgL4ALZ6JsjjZ-36">
           <mxGeometry x="77.49634146341462" y="15" width="211.35365853658536" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="k4z31NSJgL4ALZ6JsjjZ-39" value="进程一内存" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="k4z31NSJgL4ALZ6JsjjZ-36">
+        <mxCell id="k4z31NSJgL4ALZ6JsjjZ-39" value="进程一内存" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="k4z31NSJgL4ALZ6JsjjZ-36">
           <mxGeometry x="317.03048780487796" y="15" width="824.2792682926828" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="k4z31NSJgL4ALZ6JsjjZ-40" value="进程...内存" style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="k4z31NSJgL4ALZ6JsjjZ-36">
+        <mxCell id="k4z31NSJgL4ALZ6JsjjZ-40" value="进程...内存" style="rounded=1;whiteSpace=wrap;html=1;glass=0;sketch=1;curveFitting=1;jiggle=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="k4z31NSJgL4ALZ6JsjjZ-36">
           <mxGeometry x="317.03048780487796" y="55" width="824.2792682926828" height="20" as="geometry" />
         </mxCell>
         <mxCell id="k4z31NSJgL4ALZ6JsjjZ-41" value="用户内存" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="k4z31NSJgL4ALZ6JsjjZ-36">
@@ -458,7 +458,7 @@
         <mxCell id="k4z31NSJgL4ALZ6JsjjZ-48" value="虚拟内存" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="k4z31NSJgL4ALZ6JsjjZ-35">
           <mxGeometry x="-20.000407288317255" y="-29.999999999999773" width="26.11918542336549" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="k4z31NSJgL4ALZ6JsjjZ-49" value="内核内存" style="rounded=1;whiteSpace=wrap;html=1;container=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="k4z31NSJgL4ALZ6JsjjZ-35">
+        <mxCell id="k4z31NSJgL4ALZ6JsjjZ-49" value="内核内存" style="rounded=1;whiteSpace=wrap;html=1;container=0;sketch=1;curveFitting=1;jiggle=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="k4z31NSJgL4ALZ6JsjjZ-35">
           <mxGeometry x="17.449999999999996" y="-18.889999999999873" width="195.89" height="61.57" as="geometry" />
         </mxCell>
         <mxCell id="k4z31NSJgL4ALZ6JsjjZ-50" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="k4z31NSJgL4ALZ6JsjjZ-35">
@@ -482,7 +482,7 @@
         <mxCell id="k4z31NSJgL4ALZ6JsjjZ-56" value="" style="rounded=1;whiteSpace=wrap;html=1;container=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="k4z31NSJgL4ALZ6JsjjZ-35">
           <mxGeometry x="431.29999999999995" y="-13.430000000000064" width="264.1" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="k4z31NSJgL4ALZ6JsjjZ-57" value="内存映射区域" style="rounded=1;whiteSpace=wrap;html=1;container=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="k4z31NSJgL4ALZ6JsjjZ-35">
+        <mxCell id="k4z31NSJgL4ALZ6JsjjZ-57" value="内存映射区域" style="rounded=1;whiteSpace=wrap;html=1;container=0;sketch=1;curveFitting=1;jiggle=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="k4z31NSJgL4ALZ6JsjjZ-35">
           <mxGeometry x="689.6312205251877" y="-13.429999999999836" width="133.45271302250808" height="50.00000000000005" as="geometry" />
         </mxCell>
         <mxCell id="k4z31NSJgL4ALZ6JsjjZ-58" value="未使用区域" style="rounded=1;whiteSpace=wrap;html=1;container=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="k4z31NSJgL4ALZ6JsjjZ-35">
